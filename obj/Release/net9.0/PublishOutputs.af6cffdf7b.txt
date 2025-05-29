@@ -1,0 +1,9 @@
+/Users/sergeibulatov/Documents/AzureWebApp/MyAzureApiApp/publish/MyAzureApiApp
+/Users/sergeibulatov/Documents/AzureWebApp/MyAzureApiApp/publish/appsettings.Development.json
+/Users/sergeibulatov/Documents/AzureWebApp/MyAzureApiApp/publish/appsettings.json
+/Users/sergeibulatov/Documents/AzureWebApp/MyAzureApiApp/publish/MyAzureApiApp.dll
+/Users/sergeibulatov/Documents/AzureWebApp/MyAzureApiApp/publish/MyAzureApiApp.deps.json
+/Users/sergeibulatov/Documents/AzureWebApp/MyAzureApiApp/publish/MyAzureApiApp.runtimeconfig.json
+/Users/sergeibulatov/Documents/AzureWebApp/MyAzureApiApp/publish/MyAzureApiApp.pdb
+/Users/sergeibulatov/Documents/AzureWebApp/MyAzureApiApp/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/sergeibulatov/Documents/AzureWebApp/MyAzureApiApp/publish/Microsoft.OpenApi.dll
